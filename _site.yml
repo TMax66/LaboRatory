@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Bayesian LaboRatory with R"
 navbar:
-  title: "MyLabJournal"
+  title: "Bayesian LaboRatory with R"
   left:
     - text: "Home"
       href: index.html
